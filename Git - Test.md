@@ -22,6 +22,7 @@ git init - инициализация гита
 ## Lesson 2
 
 git branch - выводит ветки 
+git branch name - создание ветки.
 
 ## *Создание commit*
 
