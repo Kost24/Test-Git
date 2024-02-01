@@ -19,6 +19,7 @@
 
 ## Lesson 2
 
+git branch - выводит ветки 
 
 ## *Создание commit*
 
