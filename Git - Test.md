@@ -23,6 +23,7 @@ git init - инициализация гита
 
 git branch - выводит ветки 
 branch - ветка.
+git branch name - создание ветки.
 
 ## *Создание commit*
 
